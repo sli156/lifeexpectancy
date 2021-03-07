@@ -1,5 +1,5 @@
-# Machine Learning Project - USF MSDS 621
-### This repo contains course work from MSDS 621
+# Machine Learning Project - USF MSDS 699
+### This repo contains course work from MSDS 699
 As a member of cohort MSDS 621, this is my final project to utilize the methodologies that we acquired in the class.
 I select the [Life Expectancy Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) collected by the WHO to build the prediction model for future human beings life expectancy.
 
