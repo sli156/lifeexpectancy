@@ -1,10 +1,10 @@
 # Machine Learning Project - USF MSDS 699
 ### This repo contains course work from MSDS 699
-As a member of cohort MSDS 621, this is my final project to utilize the methodologies that we acquired in the class.
+As a member of cohort MSDS 699, this is my final project to utilize the methodologies that we acquired in the class.
 I select the [Life Expectancy Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) collected by the WHO to build the prediction model for future human beings life expectancy.
 
 ### Introduction of the dataset
-This dataset includes 2938 observations and 21 raw features including income facors, immunization facors, mortality factors, economic factors, social factors and other health related factors. 
+This dataset includes 2938 observations and 20 raw features including income facors, immunization facors, mortality factors, economic factors, social factors and other health related factors. 
 
 For this dataset including life expectancy values from 2000 - 2015, I split the data into year 2015 and year 2000-2014 for test and train dataset. I build the model based on data before 2015(not included) and validate it using data in 2015.
 
